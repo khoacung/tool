@@ -1,0 +1,25 @@
+
+
+vi derosolo.db  pass 110022   dero1qyffx4zte9yx2sq4wwfft5jjaldp3m26ceps96jvh9sxyjr2xaja5qqlwz79q
+
+25 word:  chrome keep huts journal fowls easy enigma imitate roped bulb square pamphlet goggles skirting washing lakes using semifinal randomly evaluate unplugs gumball asleep river lakes
+
+
+
+hodan phonefarm: 
+
+
+ ! apt-get install git 
+
+ ! git clone https://github.com/khoacung/hodan.git
+ 
+! cd hodan 
+
+ ! chmod +x rpc_mining.sh
+
+ ! chmod u+x astrominer
+
+ ! ./rpc_mining.sh 
+
+ ! 
+
